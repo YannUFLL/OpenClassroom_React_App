@@ -7,7 +7,6 @@ import Header from './components/Header';
 import Error from './components/Error';
 import Results from './pages/Results';
 import Freelances from './pages/Freelances';
-import { createGlobalStyle } from 'styled-components';
 import { SurveyProvider, ThemeProvider } from './utils/Context';
 import GlobalStyle from './utils/style/GlobalStyle';
 import Footer from './components/Footer';
